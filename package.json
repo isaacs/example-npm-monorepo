@@ -1,0 +1,8 @@
+{
+  "workspaces": [
+    "app/app1",
+    "app/app2",
+    "lib/lib1",
+    "lib/lib2"
+  ]
+}

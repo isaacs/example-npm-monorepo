@@ -1,0 +1,8 @@
+{
+  "name": "library1",
+  "version": "1.0.0",
+  "dependencies": {
+    "library2": "1",
+    "abbrev":"1"
+  }
+}
